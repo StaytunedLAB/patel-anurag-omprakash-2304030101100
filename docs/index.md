@@ -9,6 +9,12 @@ Welcome to the StaytunedLABS Internship documentation! This index provides quick
 | **Getting Started Guide** | Essential setup for GitHub and VS Code | [getting-started.md](getting-started.md) |
 | **Setup Instructions** | Project-specific setup and configuration | [SETUP.md](SETUP.md) |
 
+## 📚 JavaScript Learning Topics
+
+| Document | Description | Link |
+|----------|-------------|------|
+| **Function Binding** | Complete guide to `bind()` method in JavaScript | [function-binding.md](function-binding.md) |
+
 ## 📖 Documentation Overview
 
 ### Essential Reading (Start Here)
@@ -31,7 +37,8 @@ The Getting Started guide includes comprehensive links to:
 docs/
 ├── index.md              # This documentation index
 ├── getting-started.md    # GitHub & VS Code setup guide
-└── SETUP.md             # Project setup instructions
+├── SETUP.md              # Project setup instructions
+└── function-binding.md   # JavaScript function binding guide
 ```
 
 ## ❓ Need Help?
